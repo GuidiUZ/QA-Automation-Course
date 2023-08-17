@@ -20,7 +20,7 @@ Before running the test scripts, ensure that you have the following components s
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/yourusername/QA-Automation-Selenium-TestNG.git
+   git clone https://github.com/GuidiUZ/QA-Automation-Selenium-TestNG.git
    ```
 
 2. Open the project in your preferred Java IDE.
@@ -66,7 +66,7 @@ Antes de ejecutar los scripts de prueba, asegúrate de tener configurados los si
 
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
    ```
-   git clone https://github.com/tunombreusuario/QA-Automation-Selenium-TestNG.git
+   git clone https://github.com/GuidiUZ/QA-Automation-Selenium-TestNG.git
    ```
 
 2. Abre el proyecto en tu IDE Java preferido.
